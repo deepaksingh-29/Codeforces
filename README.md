@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 7 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (5)
 - [math](#math) (2)
-- [strings](#strings) (2)
+- [sortings](#sortings) (1)
+- [strings](#strings) (3)
 
 ---
 
@@ -41,6 +42,7 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### implementation
 
@@ -50,6 +52,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ### math
 
@@ -58,12 +61,19 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 
 ---
 
