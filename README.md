@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 13 | 9 |
 
 ---
 
@@ -14,9 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
+- [games](#games) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (6)
-- [math](#math) (3)
+- [implementation](#implementation) (7)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -36,6 +38,12 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -54,6 +62,7 @@
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 
 ### math
 
@@ -62,6 +71,14 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
 ### sortings
 
