@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 16 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [games](#games) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (9)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
@@ -74,6 +74,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.java) |
 
