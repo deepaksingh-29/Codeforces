@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 9 |
+| 19 | 9 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [brute force](#brute-force) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -57,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/59/A%20-%20Word/solution.java) |
+| 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/200/B%20-%20Drinks/solution.java) |
