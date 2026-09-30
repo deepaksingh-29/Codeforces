@@ -6,21 +6,43 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (2)
+- [strings](#strings) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.java) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Java 21](https://github.com/deepaksingh-29/Codeforces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.java) |
 
 ---
 
